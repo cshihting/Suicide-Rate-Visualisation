@@ -58,7 +58,7 @@ function InitiateChart(dataset, xName, yObject, axisLables) {
     };
     chartObj.yScale = d3.scale.linear().range([chartObj.height, 0]).domain([0, d3.max(chartObj.yFuncts.map(chartObj.max))]);
 
-    //Axis Declaration
+    // Axis Declaration
     chartObj.xAxis = d3.svg.axis().scale(chartObj.xScale).orient("bottom").tickFormat(chartObj.xFormatter);
 
     chartObj.yAxis = d3.svg.axis().scale(chartObj.yScale).orient("left").tickFormat(chartObj.yFormatter);
