@@ -12,7 +12,7 @@ are viewing – providing users with the ability to hover over the variables, vi
 year and its index value. As for the more standardised factors of the visualisation, each region is
 colour coded to their association. The variable lines are also made visibly thin, this is due to
 the multiple crossovers that each variable experiences, allowing for users to have a more precise
-definition of a given variable’s value.
+definition of a given variable.
 
 When understanding this visualisation, it is best done with a view of skepticism; while to some
 degree the dataset outlines the key years of higher suicide rates, it unfortunately does not dictate
